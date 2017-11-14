@@ -9,10 +9,10 @@ Goal of this project is to reproduce Issue on https://github.com/springfox/sprin
 1. Open http://localhost:8080/swagger-ui.html
 1. Invalid generated UI:
 
-   ![actual.png]
+   ![actual.png](actual.png)
 
    Expected:
 
-   ![expected.png]
+   ![expected.png](expected.png)
 
 
